@@ -1,0 +1,5 @@
+standard,single,Standard Single ,Has basic amenities.,230.0,101,false,0
+deluxe,double,Deluxe Double,Spacious and has bathtub.,430.0,102,false,0,50m,1 bathtub
+premium,triple,Premium Triple,Has spa and kitchenette.,690.0,103,true,3,After 1PM,Large Kitchenette.
+standard,double,Special Double,Wheel-Chair accessibility,350.0,104,false,0
+standard,triple,Special Triple,Wheel-Chair accessibility,500.0,105,true,2
