@@ -1,7 +1,7 @@
 # Reservation System – Java Console App
 
 > **Swinburne University of Technology**  
-> COS10033 – Advanced Programming  
+>  Advanced Programming  
 > **Student Name:** Fathima Nishda Mohamed Simsar
 
 ---
@@ -49,10 +49,9 @@ The system allows:
 
 ## Report
 
-Included: `104791010_assignment2.docx`
+Included: `Outputs.pdf`
 
 Contains:
-- Code (copied, not screenshot)
 - Test output
 - Description of implementation decisions
 
