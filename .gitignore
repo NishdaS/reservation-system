@@ -1,0 +1,15 @@
+# Java class files
+*.class
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+bin/
+out/
